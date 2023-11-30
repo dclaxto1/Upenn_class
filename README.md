@@ -35,12 +35,12 @@ Created a line chart that graphs the relationship between a goal amount and its 
 Created a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
 Used Excel to evaluate the following values for successful campaigns, and then did the same for unsuccessful campaigns:
-1. The mean number of backers
-2. The median number of backers
-3. The minimum number of backers
-4. The maximum number of backers
-5. The variance of the number of backers
-6. The standard deviation of the number of backers
+1. The mean number of backers.
+2. The median number of backers.
+3. The minimum number of backers.
+4. The maximum number of backers.
+5. The variance of the number of backers.
+6. The standard deviation of the number of backers.
 
 
 
