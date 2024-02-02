@@ -27,7 +27,7 @@ Created a report in Microsoft Word, and answer the following questions:
 3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
 Using the COUNTIFS() formula, I counted how many successful, failed, and canceled projects were created with goals within the ranges listed above. I then populated the Number Successful, Number Failed, and Number Canceled columns with these data points.
-
+ 
 I added up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, found the percentage of projects that were successful, failed, or canceled per goal range.
 
 Created a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
