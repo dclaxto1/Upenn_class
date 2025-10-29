@@ -9,7 +9,7 @@ Created a new column called Average Donation that uses a formula to find how muc
 
 Created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
 
-Created a stacked-column pivot chart that can be filtered by country based on the table that you created.
+Created a stacked-column pivot chart that can be filtered by country based on the table that you created.  
 
 Created a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
